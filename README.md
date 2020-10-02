@@ -153,3 +153,7 @@ Commit your changes and navigate to Actions, where the new build job will run an
 To see this page, navigate to your site and click the `Projects` page.
 
 ![show projects](assets/projects.png)
+
+Markdown cheatsheets:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://www.markdownguide.org/cheat-sheet/

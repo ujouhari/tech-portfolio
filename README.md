@@ -5,6 +5,12 @@ This repository allows you to create your own technical portfolio page! You are 
 ## Tutorial prerequisites
 * [A GitHub Account](https://github.com/signup)
 
+
+## Markdown cheatsheets:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+https://www.markdownguide.org/cheat-sheet/
+
 ## Fork and configure the portfolio template repository
 
 Navigate to the [tech-portfolio](https://github.com/joatmon08/tech-portfolio) in your web browser.
@@ -154,6 +160,3 @@ To see this page, navigate to your site and click the `Projects` page.
 
 ![show projects](assets/projects.png)
 
-Markdown cheatsheets:
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-https://www.markdownguide.org/cheat-sheet/

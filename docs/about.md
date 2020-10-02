@@ -19,7 +19,7 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Software Engineer in Test at Netapp
 
 ## Recognition
 
